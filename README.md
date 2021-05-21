@@ -1,5 +1,5 @@
 # Rotating-Shapes
-### **Java Programs Animating the rotation of shapes on the Windows Command Terminal**
+### **Primitive Animation**
 
 *Please note that the programs in this repository must run in the windows command terminal.*
 
