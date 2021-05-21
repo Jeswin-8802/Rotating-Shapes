@@ -1,11 +1,12 @@
 # Rotating-Shapes
-Java Programs Animating the rotation of a square and a cube on the windows command terminal
+### **Java Programs Animating the rotation of shapes on the Windows Command Terminal**
 
-Please note that the programs in this repository must run in the windows command terminal.
+*Please note that the programs in this repository must run in the windows command terminal.*
 
-Also note that the font size of text in the terminal must be small enough for the display box to fit. 
-//simply zooming in or out in the terminal will resolve this issue
+*Also note that the font size of text in the terminal must be small enough for the display box to fit in the terminal window.*
 
-PREVIEW
+// simply zooming in or out in the terminal should resolve this issue
+
+*PREVIEW*
 
 ![Screenshot 2021-05-21 152355](https://user-images.githubusercontent.com/84562594/119119491-db9f6480-ba48-11eb-9fc3-9f349267003e.png)
