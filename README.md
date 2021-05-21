@@ -1,11 +1,9 @@
 # Rotating-Shapes
 ## *Primitive Graphics*
 
- *Please note that the programs in this repository must run in the ***Windows*** command terminal.*
+ *The programs in this repository can run only in the **'Windows'** command terminal.*
 
- *Also note that the font size of text in the terminal must be small enough for the display box to fit in the terminal window.*
-
-###### // simply zooming in or out in the terminal should resolve this issue
+ *Note that the font size of text in the terminal must be small enough while the terminal is enlarged to full screen for the display box to fit in the terminal window.*
 
 P R E V I E W
 
