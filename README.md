@@ -3,7 +3,7 @@
 
  *The programs in this repository can run only in the **'Windows'** command terminal.*
 
- *Note that the font size of text in the terminal must be small enough while the terminal is enlarged to full screen for the display box to fit in the terminal window.*
+ *Note that the font size of text in the terminal must be small enough while the terminal is enlarged to full screen for the display box to be able fit within the terminal window.*
 
 P R E V I E W
 
