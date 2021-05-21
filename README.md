@@ -1,5 +1,5 @@
 # Rotating-Shapes
-## *Primitive Animation*
+## *Primitive Graphics*
 
  *Please note that the programs in this repository must run in the windows command terminal.*
 
