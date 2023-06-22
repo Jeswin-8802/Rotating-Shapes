@@ -3,8 +3,9 @@
 
  *The programs in this repository can run only in the **'Windows'** command terminal.*
 
- *Note that the font size of text in the terminal must be small enough while the terminal is enlarged to full screen for the display box to be able fit within the terminal window.*
+ *Note that the font size of the text in the terminal must be small enough for the display box to fit within the terminal window.*
 
-###### (RotatingSquare.java)
+###### (RotatingCube.java)
 
-![Screenshot 2021-05-21 152355](https://user-images.githubusercontent.com/84562594/119119491-db9f6480-ba48-11eb-9fc3-9f349267003e.png)
+<img width="960" alt="image" src="https://github.com/Jeswin-8802/Rotating-Shapes/assets/84562594/799e6d7e-6db3-48f8-8396-750c437bc3c0">
+
